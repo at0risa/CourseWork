@@ -1,0 +1,14 @@
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.vcxproj.AssemblyReference.cache
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.GreetingForm.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyForm.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormForEditing.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormForEditing2.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormForEditing3.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormForEditing4.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormForEditingMain.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormForRegistration.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormForTesting.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormOfMainMenuAdmin.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.MyFormOfMainMenuUser.resources
+C:\Users\sonya\modernsigninuicpp\modernsigninuicpp\x64\Debug\modernsigninuicpp.vcxproj.GenerateResource.cache
